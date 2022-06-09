@@ -1,0 +1,21 @@
+{
+  "name": "@thomas-maclean/npm-demo-1",
+  "version": "1.0.1",
+  "description": "",
+  "private": false,
+  "main": "jokes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThomasAndrewMacLean/npm-demo-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThomasAndrewMacLean/npm-demo-1/issues"
+  },
+  "homepage": "https://github.com/ThomasAndrewMacLean/npm-demo-1#readme"
+}
