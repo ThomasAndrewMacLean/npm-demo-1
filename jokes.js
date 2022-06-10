@@ -7,7 +7,6 @@ const randomJoke = () => {
   return jokes[randomIndex].split(',"')[1].slice(0, -1).split('""').join('"');
 };
 
-console.log(randomJoke());
 module.exports = {
   randomJoke,
 };
